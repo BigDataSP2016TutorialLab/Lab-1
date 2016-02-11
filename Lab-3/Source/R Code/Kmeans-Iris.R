@@ -1,0 +1,6 @@
+data(iris)
+x<-rbind(iris$Sepal.Length, iris$Sepal.Width, iris$Petal.Length)
+x<-t(x)
+km <- kmeans(x, 3, 15)
+print(km)
+plot(x, col = km$cluster)
