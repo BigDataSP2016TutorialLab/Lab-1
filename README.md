@@ -1,2 +1,3 @@
-# Lab-1
-Tutorial Lab
+#Tutorial Lab Assignments
+##Class ID: 3
+##Venkata Vamsi Krishna Bhuvanam
