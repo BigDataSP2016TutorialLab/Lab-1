@@ -21,6 +21,3 @@ The android application will start as a socket client where it will create a por
 Perform a machine learning algorithm with the Twitter Streaming data to categorize each Tweet
 1) Training datasets: Collect different categories of Tweets related to your project.(Categories can be based on HashTags /Subjects etc.) 
 2) Test data: The upcoming twitter stream
-
-##Brief Description about your implementation : 
-
