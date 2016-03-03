@@ -92,7 +92,7 @@ object NLPUtils {
   def tfidfTransformer(data: RDD[LabeledDocument], norm: Boolean = false): RDD[LabeledPoint] = {
     /**
      * Implements TFIDF via Sparks built in methods. Because idfModel requires and RDD[Vector] we are not able to pass directly in
-     * a RDD[LabeledPoint]. A work around is to save the LabeledPoint.features to a var (hashedData), transform the data, then  zip
+     * a RDD[LabeledPoint]. A work around is to save the LabeledPoint.`s to a var (hashedData), transform the data, then  zip
      * the labeled dataset and the transformed IDFs and project them to a new LabeledPoint
 
       Data: RDD of type LabledDocument

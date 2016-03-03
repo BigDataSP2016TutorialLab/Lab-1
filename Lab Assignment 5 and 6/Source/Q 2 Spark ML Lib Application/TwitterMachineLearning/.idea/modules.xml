@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/featureextractiontext1.iml" filepath="$PROJECT_DIR$/.idea/modules/featureextractiontext1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/featureextractiontext1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/featureextractiontext1-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twittermachinelearning.iml" filepath="$PROJECT_DIR$/.idea/modules/twittermachinelearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twittermachinelearning-build.iml" filepath="$PROJECT_DIR$/.idea/modules/twittermachinelearning-build.iml" />
     </modules>
   </component>
 </project>

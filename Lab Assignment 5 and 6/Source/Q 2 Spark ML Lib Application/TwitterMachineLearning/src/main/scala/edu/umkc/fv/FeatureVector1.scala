@@ -32,7 +32,7 @@ object FeatureVector1 {
      val stream = TwitterUtils.createStream(ssc, None, filters)
      stream.print()
      val hashTags = stream.flatMap(status => status.getText.split(" ").filter(_.startsWith("#")))
-     /*val topCounts30 = hashTags.map((_, 1)).reduceByKeyAndWindow(_ + _, Seconds(30))
+     val topCounts30 = hashTags.map((_, 1)).reduceByKeyAndWindow(_ + _, Seconds(30))
        .map{case (topic, count) => (count, topic)}
        .transform(_.sortByKey(false))
      topCounts30.foreachRDD(rdd => {
@@ -40,7 +40,7 @@ object FeatureVector1 {
        println("\nPopular topics in last 30 seconds (%s total):".format(rdd.count()))
        topList.foreach{case (count, tag) => println("%s (%s tweets)".format(tag, count))}
        rdd.saveAsSequenceFile("oup1")
-     })*/
+     })
 
 
      val sc = ssc.sparkContext

@@ -1,4 +1,4 @@
-[info] Updating {file:/D:/%23UMKC/Big%20Data%20Analytics%20&%20Applications/Tutorial/TwitterMachineLearning/project/}twittermachinelearning-build...
+[info] Updating {file:/C:/Users/Vamsi/Documents/GitHub/Lab-1/Lab%20Assignment%205%20and%206/Source/Q%202%20Spark%20ML%20Lib%20Application/TwitterMachineLearning/project/}twittermachinelearning-build...
 [debug] :: resolving dependencies :: default#twittermachinelearning-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies for default#twittermachinelearning-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#twittermachinelearning-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f1ad7b1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fd787fd
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -1766,19 +1766,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 5024ms :: artifacts dl 411ms
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT compile produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-compile.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT runtime produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-runtime.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT test produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-test.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT provided produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-provided.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT optional produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-optional.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT compile-internal produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-compile-internal.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT runtime-internal produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-runtime-internal.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT test-internal produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-test-internal.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT plugin produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-plugin.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT sources produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-sources.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT docs produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-docs.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT pom produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-pom.xml
-[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT scala-tool produced in D:\#UMKC\Big Data Analytics & Applications\Tutorial\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-scala-tool.xml
-[debug] 	resolve done (5024ms resolve - 411ms download)
+[debug] :: resolution report :: resolve 1892ms :: artifacts dl 85ms
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT compile produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-compile.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT runtime produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-runtime.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT test produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-test.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT provided produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-provided.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT optional produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-optional.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-compile-internal.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-runtime-internal.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT test-internal produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-test-internal.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT plugin produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-plugin.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT sources produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-sources.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT docs produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-docs.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT pom produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-pom.xml
+[debug] 	report for default#twittermachinelearning-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Vamsi\Documents\GitHub\Lab-1\Lab Assignment 5 and 6\Source\Q 2 Spark ML Lib Application\TwitterMachineLearning\project\target\resolution-cache\reports\default-twittermachinelearning-build-scala-tool.xml
+[debug] 	resolve done (1892ms resolve - 85ms download)
 [info] Done updating.
